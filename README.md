@@ -1,8 +1,15 @@
 **FATEC - SJC (Professor Jessen Vidal)**
+
+&nbsp;
 **Análise e Desenvolvimento de Sistemas**
 
+&nbsp;
 **Matéria:** Laboratório de Banco de Dados
+
+&nbsp;
 **Professor:** Fernando Masanori
+
+&nbsp;
 **Aluno:** Toni William do Prado
 
 ---
@@ -10,11 +17,19 @@
 
 **Nascidos vivos no município de São José dos Campos - SP, no período de 2014 - 2018**
 
-**Dados utilizados:** 
+&nbsp;
+
+**Dados utilizados:**
+
+&nbsp;
 
 **DATASUS -** O DATASUS disponibiliza informações que podem servir para subsidiar  análises objetivas da situação sanitária, tomadas de decisão baseadas em evidências e elaboração de programas de ações de saúde.
 
-**TABNET -** O aplicativo TABNET é um tubulador genérico de domínio público que permite organizar dados de forma rápida conforme a consulta que se deseja tabular. Foi desenvolvido pelo DATASUS para gerar informações das bases de dados so SISTEMA ÚNICO DE SAÚDE. 
+&nbsp;
+
+**TABNET -** O aplicativo TABNET é um tubulador genérico de domínio público que permite organizar dados de forma rápida conforme a consulta que se deseja tabular. Foi desenvolvido pelo DATASUS para gerar informações das bases de dados so SISTEMA ÚNICO DE SAÚDE.
+
+&nbsp;
 
  Os arquivos .csv estão disponibilizados na pasta "Nascimento por Mes 2014-2018".
  
