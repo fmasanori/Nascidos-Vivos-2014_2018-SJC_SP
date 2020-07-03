@@ -1,4 +1,4 @@
-**FATEC - SJC (Professor Jessen Vidal)**
+**   FATEC - SJC (Professor Jessen Vidal)**
 
 &nbsp;
 **Análise e Desenvolvimento de Sistemas**
@@ -21,7 +21,6 @@
 **Dados utilizados:**
 
 &nbsp;
-
 **DATASUS -** O DATASUS disponibiliza informações que podem servir para subsidiar  análises objetivas da situação sanitária, tomadas de decisão baseadas em evidências e elaboração de programas de ações de saúde.
 
 &nbsp;
