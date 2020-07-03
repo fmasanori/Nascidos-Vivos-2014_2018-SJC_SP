@@ -1,4 +1,4 @@
-**   FATEC - SJC (Professor Jessen Vidal)**
+  **FATEC - SJC (Professor Jessen Vidal)**
 
 &nbsp;
 **Análise e Desenvolvimento de Sistemas**
@@ -15,7 +15,7 @@
 ---
 
 
-**Nascidos vivos no município de São José dos Campos - SP, no período de 2014 - 2018**
+  **Nascidos vivos no município de São José dos Campos - SP, no período de 2014 - 2018**
 
 &nbsp;
 **Dados utilizados:**
@@ -28,7 +28,7 @@
 
 &nbsp;
 
-Os arquivos .csv estão disponibilizados na pasta "Nascimento por Mes 2014-2018".
+  Os arquivos .csv estão disponibilizados na pasta "Nascimento por Mes 2014-2018".
 
  &nbsp;
 Link direto para novas consultas: <http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinasc/cnv/nvSP.def>
